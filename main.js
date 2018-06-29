@@ -7,7 +7,7 @@ body = document.getElementById("gradient");
 btn = document.querySelector("button");
 
 function showGradient() {
-    setGradient();
+    setRandomColors();
 }
 
 function setGradient() {
